@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='fepolbhbggkabpekdoopjeepclgkgfmm'>
-    <updatecheck codebase='https://raw.githubusercontent.com/glenrmag/ezexttest/main/Ezekia%20QuickAccess%2012th%20Feb.crx' version='2.0' />
+  <app appid='ameeekodcennghemgnidapclpinkcoia'>
+    <updatecheck codebase='https://raw.githubusercontent.com/glenrmag/ezexttest/main/Ezekia%20QuickAccess%202.0.crx' version='2.0' />
   </app>
 </gupdate>
+
